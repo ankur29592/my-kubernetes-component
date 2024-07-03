@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-kubernetes-component
+  annotations:
+    github.com/project-slug: ankur29592/my-kubernetes-component
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
